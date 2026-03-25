@@ -129,5 +129,3 @@ Kássia Moreira Santos
 
 📄 Licença
 Este projeto está sob a licença MIT. 
-
-Se você souber qual banco de dados está usando (MySQL, PostgreSQL, MongoDB) e qual ORM, me avise que eu atualizo essas informações no README para ficar 100% preciso.
